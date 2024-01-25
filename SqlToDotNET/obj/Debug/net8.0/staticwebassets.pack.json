@@ -1,0 +1,301 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SqlToDotNET.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SqlToDotNET.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css.map"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Practice For Github\\Stored Procedure Trigger Function\\Working with Trigger Function and Stored Procedure\\SqlToDotNET\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SqlToDotNET.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SqlToDotNET.props",
+      "PackagePath": "build\\SqlToDotNET.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SqlToDotNET.props",
+      "PackagePath": "buildMultiTargeting\\SqlToDotNET.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SqlToDotNET.props",
+      "PackagePath": "buildTransitive\\SqlToDotNET.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
