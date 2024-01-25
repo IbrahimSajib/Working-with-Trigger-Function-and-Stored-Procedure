@@ -260,3 +260,4 @@ D:\Practice For Github\Stored Procedure Trigger Function\Working with Trigger Fu
 D:\Practice For Github\Stored Procedure Trigger Function\Working with Trigger Function and Stored Procedure\SqlToDotNET\obj\Debug\net8.0\SqlToDotNET.pdb
 D:\Practice For Github\Stored Procedure Trigger Function\Working with Trigger Function and Stored Procedure\SqlToDotNET\obj\Debug\net8.0\SqlToDotNET.genruntimeconfig.cache
 D:\Practice For Github\Stored Procedure Trigger Function\Working with Trigger Function and Stored Procedure\SqlToDotNET\obj\Debug\net8.0\ref\SqlToDotNET.dll
+D:\Practice For Github\Stored Procedure Trigger Function\Working with Trigger Function and Stored Procedure\SqlToDotNET\obj\Debug\net8.0\SqlToDotNET.sourcelink.json

@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using SqlToDotNET.Models;
+using SqlToDotNET.ViewModels;
 
 namespace SqlToDotNET.Controllers
 {
@@ -24,13 +20,20 @@ namespace SqlToDotNET.Controllers
         {
             return View(await _context.People.FromSqlRaw("EXECUTE spGetAllPerson").ToListAsync());
         }
-        
-        
+
+        public async Task<IActionResult> PersonWithAge()
+        {
+            var personsWithAge = await _context.Set<PersonWithAgeVM>()
+                .FromSqlRaw("EXECUTE dbo.spGetAllPersonwithAge")
+                .ToListAsync();
+            return View(personsWithAge);
+        }
+
         public async Task<IActionResult> Backup()
         {
             return View(await _context.TblBackups.FromSqlRaw("EXECUTE spGetAllBackup").ToListAsync());
         }
-        
+
         public async Task<IActionResult> Audit()
         {
             return View(await _context.PersonAudits.FromSqlRaw("EXECUTE spGetAllPersonAudit").ToListAsync());
@@ -44,14 +47,14 @@ namespace SqlToDotNET.Controllers
                 return NotFound();
             }
 
-            var book = _context.People.FromSqlRaw("EXECUTE spGetPersonById @id", new SqlParameter("@id", id)).ToList().FirstOrDefault();
+            var person = _context.People.FromSqlRaw("EXECUTE spGetPersonById @id", new SqlParameter("@id", id)).ToList().FirstOrDefault();
 
-            if (book == null)
+            if (person == null)
             {
                 return NotFound();
             }
 
-            return View(book);
+            return View(person);
         }
 
 
@@ -108,10 +111,10 @@ namespace SqlToDotNET.Controllers
                 _context.Database.ExecuteSqlRaw("EXECUTE spUpdatePerson @id, @name, @dateOfBirth",
                     new SqlParameter("@id", id),
                     new SqlParameter("@name", person.Name),
-                     new SqlParameter("@dateOfBirth", person.DateOfBirth));
+                    new SqlParameter("@dateOfBirth", person.DateOfBirth));
                 await _context.SaveChangesAsync();
-                
-                
+
+
                 return RedirectToAction(nameof(Index));
             }
             return View(person);

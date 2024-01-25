@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SqlToDotNET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d48a5a598bbfca218588791f8994f1d02916205")]
 [assembly: System.Reflection.AssemblyProductAttribute("SqlToDotNET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SqlToDotNET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

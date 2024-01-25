@@ -12,7 +12,7 @@
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
+            <div class="container-fluid px-5">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">SqlToDotNET</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
@@ -31,6 +31,9 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Persons" asp-action="Audit">Audit Data</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Persons" asp-action="PersonWithAge">Person List With Age</a>
                         </li>
                     </ul>
                 </div>
